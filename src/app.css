@@ -3,5 +3,5 @@
 @import 'tailwindcss/utilities';
 
 html {
-  @apply bg-blue-400;
+  @apply bg-gray-900;
 }
